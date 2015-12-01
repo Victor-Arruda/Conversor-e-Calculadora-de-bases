@@ -14,13 +14,13 @@ Conversão para Binário:
 <img src="http://i.imgur.com/D3vFMHc.png">
 
 
-Soma de Números Binários
+Soma de Números Binários:
 
 <img src="http://s7.postimg.org/jvbrf6quz/Captura_de_tela_de_2015_12_01_00_16_53.png">
 
-Subtração de Números Binários
+Subtração de Números Binários:
 
-<img src="http://s1.postimg.org/qqvzyuyb3/Captura_de_tela_de_2015_12_01_00_23_36.png"
+<img src="http://s1.postimg.org/qqvzyuyb3/Captura_de_tela_de_2015_12_01_00_23_36.png">
 
 Conversão para Octal:
 
