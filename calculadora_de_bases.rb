@@ -166,7 +166,7 @@ while sair == false
       when 1
         puts "Digite um número"
         numero = gets.chomp
-        decimal_para_hexadecimal(numero.to_i)
+        puts decimal_para_hexadecimal(numero.to_i)
       when 2
         puts "Digite o primeiro número"
         num1 = gets.chomp
