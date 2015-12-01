@@ -149,13 +149,13 @@ while sair == false
         num1 = gets.chomp
         puts "Digite o segundo número"
         num2 = gets.chomp
-        soma_octal(num1, num2)
+        puts soma_octal(num1, num2)
       when 3
         puts "Digite o primeiro número"
         num1 = gets.chomp
         puts "Digite o segundo número"
         num2 = gets.chomp
-        subtracao_octal(num1, num2)
+        puts subtracao_octal(num1, num2)
       else
         puts "Valor Inválido!"
       end
@@ -172,13 +172,13 @@ while sair == false
         num1 = gets.chomp
         puts "Digite o segundo número"
         num2 = gets.chomp
-        soma_hexadecimal(num1, num2)
+        puts soma_hexadecimal(num1, num2)
       when 3
         puts "Digite o primeiro número"
         num1 = gets.chomp
         puts "Digite o segundo número"
         num2 = gets.chomp
-        subtracao_hexadecimal(num1, num2)
+        puts subtracao_hexadecimal(num1, num2)
       else
         puts "Valor Inválido!"
       end
